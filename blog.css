@@ -1,0 +1,13 @@
+#tellYourStory{
+    width: 700px;
+    height: 100px;
+}
+
+.inputContainer{
+    display: flex;
+    justify-content: center
+}
+
+#submitButton{
+border-left: 40px;
+}
